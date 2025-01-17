@@ -554,6 +554,10 @@ video {
   display: none;
 }
 
+.m-2 {
+  margin: 0.5rem;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -621,6 +625,10 @@ video {
 
 .mt-24 {
   margin-top: 6rem;
+}
+
+.mb-0 {
+  margin-bottom: 0px;
 }
 
 .flex {
@@ -752,6 +760,10 @@ video {
 
 .p-5 {
   padding: 1.25rem;
+}
+
+.p-6 {
+  padding: 1.5rem;
 }
 
 .px-4 {
@@ -1320,6 +1332,10 @@ input[type="checkbox"]:focus {
     margin-top: 6rem;
   }
 
+  .lg\:mb-4 {
+    margin-bottom: 1rem;
+  }
+
   .lg\:h-full {
     height: 100%;
   }
@@ -1370,6 +1386,10 @@ input[type="checkbox"]:focus {
 
   .lg\:p-40 {
     padding: 10rem;
+  }
+
+  .lg\:p-5 {
+    padding: 1.25rem;
   }
 
   .lg\:px-8 {
